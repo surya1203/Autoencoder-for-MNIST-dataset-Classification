@@ -1,0 +1,2 @@
+# Autoencoder-for-MNIST-dataset-Classification
+PCA and the standard autoencoder are unsupervised dimensionality reduction methods, and their learned features are not discriminative. If you build a classifier upon the low-dimenional features extracted by PCA and autoencoder, you will find the classification accuracy very poor. This autoencoder performs dimensionality reduction to better classify the MNIST dataset. 
